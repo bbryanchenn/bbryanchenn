@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=H4CK3RG0D.visitor-badge" />
+  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=bbryanchenn.visitor-badge" />
   <img alt="spotify" src="https://img.shields.io/badge/listening%20to-Baptized%20In%20Fear%20by%20The%20Weeknd-1DB954" />
   <img alt="hehe" src="https://img.shields.io/badge/A+%20-yes%20pls-FFC0CB" />
 </p>
@@ -40,5 +40,5 @@
 
 ---
 ### :zap: GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=H4CK3RG0D)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bbryanchenn)
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RG0D&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
