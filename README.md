@@ -33,7 +33,9 @@
 
 <p align="center">
   <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=bbryanchenn.visitor-badge" />
-  <img alt="spotify" src="https://img.shields.io/badge/listening%20to-Baptized%20In%20Fear%20by%20The%20Weeknd-1DB954" />
+  <a href="https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9">
+  <img alt="spotify" src="https://img.shields.io/badge/listening%20to-COMË%20N%20GO%20by%20Yeat-1DB954?logo=spotify&logoColor=white" />
+</a>
   <img alt="hehe" src="https://img.shields.io/badge/A+%20-yes%20pls-FFC0CB" />
 </p>
 
