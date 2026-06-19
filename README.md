@@ -26,12 +26,6 @@ bryan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbryanchenn&theme=tokyonight&hide_border=true" />
 </p>
 
-<br />
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bbryanchenn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues" />
-</p>
-
 <p align="center">
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=bbryanchenn.visitor-badge" />
 </p>
